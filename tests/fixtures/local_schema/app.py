@@ -1,0 +1,3 @@
+class Schema:
+    pass
+Schema()
